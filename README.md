@@ -1,5 +1,6 @@
 # Herkese Merhaba Ben Yusuf 
 + Ben Yusuf, lise öğrencisiyim.
++ Bu sene lise son olduğum için sınava hazırlanıyorum o nedenle pek aktif değilim :(
 + Yazılım benim için bir hobi (en azından şimdilik 😊 )
 
 ## Kullandığım Teknolojilerden Bazıları

@@ -5,6 +5,10 @@
 
 ## Kullandığım Teknolojilerden Bazıları
 
+<img align="right"  src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png](https://git-scm.com/images/logos/2color-lightbg@2x.png)" width="25" height="25" />
+
++ Versiyon takibi için git,
+
 <img align="right"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" height="25" />
 
 + Python-Django ile web site geliştirme üzerine,

@@ -5,7 +5,7 @@
 
 ## Kullandığım Teknolojilerden Bazıları
 
-<img align="right"  src="[https://git-scm.com/images/logos/2color-lightbg@2x.png]" width="25" height="25" />
+<img align="right"  src="https://git-scm.com/images/logos/2color-lightbg@2x.png" width="25" height="25" />
 
 + Versiyon takibi için git,
 

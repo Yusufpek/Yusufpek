@@ -28,5 +28,5 @@
 
 <details>
 <summary>Github İstatistiklerim</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Yusufpek&theme=dark" >
+<img src="https://github-readme-stats.vercel.app/api?username=Yusufpek&theme=highcontrast" >
 </details>

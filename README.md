@@ -1,7 +1,6 @@
 # Herkese Merhaba Ben Yusuf 
 + Ben Yusuf, Hacettepe Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.
 + [Linkedin](https://www.linkedin.com/in/yusuf-ipek/) Hesabım
-+ Geçen sene üniversite sınavına hazırlandığım için pek aktif olamadım :(
 
 ## Kullandığım Teknolojilerden Bazıları
 

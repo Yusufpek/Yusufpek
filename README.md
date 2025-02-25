@@ -32,5 +32,5 @@
 
 <details>
 <summary>Github İstatistiklerim</summary>
-<img class="img" src="https://github-readme-stats.vercel.app/api?username=Yusufpek&theme=highcontrast" />
+<img class="img" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yusufpek&theme=ayu_mirage" />
 </details>

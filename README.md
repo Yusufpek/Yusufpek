@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yusuf Ipek  
 
-🎓 3rd-year Computer Engineering student at Hacettepe University  
+🎓 4th-year Computer Engineering student at Hacettepe University  
 💻 Interested in backend development, scalable systems, and real-world applications  
 🚀 Currently working as a part-time backend developer at **Technarts**  
 

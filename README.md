@@ -1,36 +1,65 @@
-# Herkese Merhaba Ben Yusuf 
-+ Ben Yusuf, Hacettepe Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
-+ [Linkedin](https://www.linkedin.com/in/yusuf-ipek/) Hesabım
+# 👋 Hi, I'm Yusuf Ipek  
 
-## Kullandığım Teknolojilerden Bazıları
+🎓 3rd-year Computer Engineering student at Hacettepe University  
+💻 Interested in backend development, scalable systems, and real-world applications  
+🚀 Currently working as a part-time backend developer at **Technarts**  
 
-<img align="right"  src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="25" height="25" />
+🔗 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-ipek/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yusufpek)  
 
-+ Versiyon takibi için git,
+---
 
-<img align="right"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="25" height="25" />
-<img align="right"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="25" height="25" />
+## 🛠️ Tech Stack  
 
-+ Flutter-Dart ile mobil uygulama geliştirme üzerine,
+<!-- Backend -->
+<img align="right" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="30" height="30" />  
+<img align="right" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="30" height="30" />  
+<img align="right" src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" width="30" height="30" />  
+<img align="right" src="https://www.rabbitmq.com/assets/files/rabbitmq-logo-e91cacd38fcef5219149bc5cfa10b384.svg" width="30" height="30" />  
+ 
 
-<img align="right"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" />
+- **Backend:** Python, Django Rest Framework, Celery, RabbitMQ  
 
-+ React ile frontend geliştirme üzerine,
+<!-- Databases -->
+<img align="right" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" width="30" height="30" />  
+<img align="right" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png" width="30" height="30" />  
+<img align="right" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" width="30" height="30" />  
 
-<img align="right"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" height="25" />
+- **Databases:** PostgreSQL, TimescaleDB, Redis, Firebase  
 
-+ Python-Django ile backend geliştirme üzerine,
+<!-- Frontend -->
+<img align="right" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="30" height="30" />  
+<img align="right" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="30" height="30" />  
 
+- **Frontend:** React.js  
 
-<img align="right"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="25" height="25" />
+<!-- Mobile -->
+<img align="right" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" width="30" height="30" />  
+<img align="right" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" width="30" height="30" />  
 
-+ C# ile windows form uygulama geliştirme üzerine 
-çalışıyorum.
+- **Mobile:** Flutter (Dart)  
 
+<!-- Desktop -->
+<img align="right" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" width="30" height="30" />  
 
-## İstatistiklerim
+- **Desktop:** C# (Windows Forms)  
 
-<details>
-<summary>Github İstatistiklerim</summary>
-<img class="img" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yusufpek&theme=ayu_mirage" />
-</details>
+<!-- Others -->
+<img align="right" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" width="30" height="30" />  
+<img align="right" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png" width="30" height="30" />  
+<img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/apachekafka.svg" width="30" height="30" />
+ 
+<img align="right" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="30" height="30" />  
+
+- **Others:** Docker, Elasticsearch, Apache Kafka, Git  
+
+---
+
+## 📊 GitHub Stats  
+
+### Profile Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yusufpek&theme=ayu_mirage)
+
+### Most Used Languages
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yusufpek&theme=ayu_mirage)
